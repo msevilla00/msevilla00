@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](banner.jpg)
+
+I'm Miguel Sevilla-Callejo, Geographer, enthusiast of open and free tools and data, GNU/Linux user, OpenStreetMap contributor and more...
+
+I moved almost all my repos to GitLab and you can find me there as msevilla00](https://gitlab.com/msevilla00).
+
+You could have information about me starting on [Twitter](https://twitter.com/msevilla00)
